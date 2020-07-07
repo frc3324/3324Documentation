@@ -1,0 +1,11 @@
+html {
+    font-family: sans-serif;
+}
+
+code {
+    font-family: monospace, monospace !important;
+}
+
+p {
+    max-width: 40em;
+}

@@ -1,5 +1,9 @@
 [book]
-authors = []
+authors = ["Mani Kamali Sarvestani", "Joel Masara"]
 language = "en"
 multilingual = false
 src = "src"
+
+[output.html]
+copy-fonts = false 
+additional-css = ["default-fonts.css"]
