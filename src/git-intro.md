@@ -55,7 +55,7 @@ To make a commit message type:
 ```shell
 $ git commit -m <message>
 ```
-Make sure to change “<message>” to a simple changelog message, for example “Changed README.md”
+Make sure to change `<message>` to a simple changelog message, for example “Changed README.md”
 This is not best practice but it’s okay for now.
 
 Finally, to push the code to the repository, run: 

@@ -3,6 +3,7 @@
 ## Windows
 Go to [the windows download link](https://www.jetbrains.com/idea/download/#section=windows)
 Then download the community version, and open it.
+
 ![First installer menu](img/installers/intellij-0.png)
 
 Click "Next"
