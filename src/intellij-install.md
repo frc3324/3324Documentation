@@ -1,4 +1,4 @@
-# Installing Intellij
+# Installing IntelliJ
 
 ## Windows
 Go to [the windows download link](https://www.jetbrains.com/idea/download/#section=windows)
