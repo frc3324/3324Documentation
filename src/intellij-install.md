@@ -28,5 +28,5 @@ Make sure to tick "Run IntelliJ IDEA Community Edition", and click "Finish".
 
 Choose whatever theme you want, and then click "Skip Remaining and Set Defaults"
 
-
-
+<hr>
+2020-07-07

@@ -71,3 +71,6 @@ This may seem like a ton of effort for essentially “google docs” functionali
 - [Chapters 1 and 2 of the Git book are highly recommended](https://git-scm.com/book/en/v2)
 - [3512’s Git Presentation (not everything here applies)](https://csweb.frc3512.com/ci/intro-to-git/lecture/)
 - [Random internet slideshow about git 101](https://www.slideshare.net/HubSpot/git-101-git-and-github-for-beginners)
+
+<hr>
+2020-07-07
